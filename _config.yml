@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: 2nd Workshop on Long-term Deployments in the Wild (LoWi)
+description: Official website for the 2nd LoWi Workshop
+
+plugins:
+  - jekyll-seo-tag
