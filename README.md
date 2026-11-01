@@ -1,13 +1,22 @@
 <img src="images/logo_lowi.jpg" height="110">
 
 ## &#128204; Quick Links
-[Overview](#-overview) | [Important Dates](#-important-dates) | [Call for Papers](#-call-for-papers) | [Keynote Speakers](#-invited-speakers) | [Organizers](#-organizers)
+[Overview](#-overview) | [Important Dates](#-important-dates) | [Call for Papers](#-call-for-papers) | [Keynote Speakers](#-keynote-speakers) | [Organizers](#-organizers)
 
 ---
 
 ## &#128214; Overview
 
-Welcome to the official website of the **2nd Workshop on Long-term Deployments in the Wild (LoWi)**. 
+The deployment of autonomous robots in real-world applications is increasing rapidly.
+On one hand, the long-term performance of these systems depends heavily on their ability to perceive and interpret complex, dynamically changing environments, as well as their capacity to learn and adapt to new situations over extended periods.
+On the other hand, how to construct effective benchmarks for real-world deployment that can be widely adopted remains a very open question.
+These considerations gave rise to LoWi.
+Since its 1st edition, LoWi has followed a philosophy: while maintaining an overarching theme and research context for each edition (represented by the main title), it can focus on specific aspects (represented by the subtitle).
+The 2nd edition of LoWi will be held in conjunction with the **Spatio-Temporal Intelligence (STI)** workshop.
+Through a **debate-style** format, we aim to gather insights on the consensus and points of contention within the community regarding topics of mutual interest, ultimately providing guidance for future research directions and technological development paths.
+Accordingly, the subtitle for the 2nd edition of LoWi is: **Consensus, Controversies, and Perspectives**.
+Specifically, we have identified three themes: *Real-world Deployment*, *4D Perception and Intelligence*, and *Long-term Autonomy*.
+Each theme encompasses a specific question, two distinct viewpoints (labeled as ``pro'' and ``con''), and a proposed action to be pursued following the workshop.
 
 ---
 
@@ -31,7 +40,7 @@ Coming soon!
 
 ---
 
-## &#127908; Invited Speakers
+## &#127908; Keynote Speakers
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 30px; text-align: center; margin: 20px 0 40px 0;">
 
