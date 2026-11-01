@@ -16,7 +16,8 @@ The 2nd edition of LoWi will be held in conjunction with the **Spatio-Temporal I
 Through a **debate-style** format, we aim to gather insights on the consensus and points of contention within the community regarding topics of mutual interest, ultimately providing guidance for future research directions and technological development paths.
 Accordingly, the subtitle for the 2nd edition of LoWi is: **Consensus, Controversies, and Perspectives**.
 Specifically, we have identified three themes: **Real-world Deployment**, **4D Perception and Intelligence**, and **Long-term Autonomy**.
-Each theme encompasses a specific question, two distinct viewpoints (labeled as *pro* and *con*), and a proposed action to be pursued following the workshop.
+Each theme encompasses a specific question, two distinct viewpoints (labeled as "pro" and "con"), and a proposed action to be pursued following the workshop.
+Expected outcomes include a roadmap paper and the organization of a special issue in a major journal.
 
 ---
 
