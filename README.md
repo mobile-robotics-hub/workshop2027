@@ -1,10 +1,3 @@
----
-layout: default
-title: Home
----
-
-# workshop2027
-
 <img src="images/logo_lowi.jpg" height="110">
 
 ## &#128204; Quick Links
