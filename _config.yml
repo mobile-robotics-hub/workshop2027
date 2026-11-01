@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: 2nd Workshop on Long-term Deployments in the Wild (LoWi)
-description: Consensus, Controversies, and Perspectives
+description: >
+  Consensus, Controversies, and Perspectives<br>
+  <strong>Date:</strong> May 24 or 28, 2027 | <strong>Location:</strong> Seoul, South Korea | <strong>Format:</strong> Full-day, In-person
 
 github:
   is_project_page: false
