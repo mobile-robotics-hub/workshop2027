@@ -1,7 +1,7 @@
 <img src="images/logo_lowi.jpg" height="110">
 
 ## &#128204; Quick Links
-[Overview](#-overview) | [Important Dates](#-important-dates) | [Call for Papers](#-call-for-papers) | [Keynote Speakers](#-keynote-speakers) | [Organizers](#-organizers)
+[Overview](#-overview) | [Important Dates](#-important-dates) | [Call for Papers](#-call-for-papers) | [Keynote Speakers](#-keynote-speakers) | [Tentative Schedule](#-tentative-schedule) | [Organizers](#-organizers)
 
 ---
 
