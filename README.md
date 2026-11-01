@@ -20,7 +20,7 @@ Each theme encompasses a specific question, two distinct viewpoints (labeled as 
 
 ---
 
-## &#128467;&#65039; Important Dates
+## &#128197; Important Dates
 
 
 * **Paper Submission Deadline:** March 31, 2027 (23:59 Anywhere on Earth)
