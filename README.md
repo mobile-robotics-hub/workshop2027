@@ -1,3 +1,12 @@
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    const btn = document.querySelector('a.btn');
+    if (btn) {
+      btn.style.display = 'none';
+    }
+  });
+</script>
+
 <img src="images/logo_lowi.jpg" height="110">
 
 ## &#128204; Quick Links
