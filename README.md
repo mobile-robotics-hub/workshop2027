@@ -20,7 +20,109 @@ Welcome to the official website of the **2nd Workshop on Long-term Deployments i
 
 ---
 
-## 👥 Organizers
+## &#128227; Call for Papers
+
+Coming soon!
+
+### Submission Guidelines
+* **Paper Format:** Position papers (1-2 pages) Extended Abstracts (2-4 pages) or Full Papers (6-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
+* **Submission Portal:** [https://cmt3.research.microsoft.com/LoWi2027](https://cmt3.research.microsoft.com/LoWi2027)
+* **Publication Policy:** Non-archival. Papers presented here can be submitted to other conferences/journals later.
+
+---
+
+## &#127908; Invited Speakers
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 30px; text-align: center; margin: 20px 0 40px 0;">
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Tim_Barfoot.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="http://asrl.utias.utoronto.ca/~tdb" target="_blank">Prof. Tim Barfoot</a></strong>
+    <br />
+    <small>University of Toronto, Canada</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Sven_Behnke.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="http://ais.uni-bonn.de/behnke" target="_blank">Prof. Sven Behnke</a></strong>
+    <br />
+    <small>University of Bonn, Germany</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Teresa_Vidal_Calleja.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="https://profiles.uts.edu.au/Teresa.VidalCalleja" target="_blank">Prof. Teresa Vidal-Calleja</a></strong>
+    <br />
+    <small>University of Technology Sydney, Australia</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Jonghyun_Choi.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="https://ppolon.github.io/" target="_blank">Dr. Jonghyun Choi</a></strong>
+    <br />
+    <small>Seoul National University, South Korea</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Marija_Popovic.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="https://research.tudelft.nl/en/persons/m-popovic" target="_blank">Dr. Marija Popović</a></strong>
+    <br />
+    <small>TU Delft, Netherlands</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+  <div style="background: #fdfdfd; border: 1px solid #eaeaea; border-radius: 8px; padding: 20px 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <img src="images/Hyun_Myung.jpg" style="height: 150px; border-radius: 20%; object-fit: cover; margin-bottom: 12px;" />
+    <br />
+    <strong><a href="http://urobot.kaist.ac.kr/" target="_blank">Prof. Hyun Myung</a></strong>
+    <br />
+    <small>KAIST, South Korea</small>
+    <hr style="border: none; border-top: 1px dashed #eee; margin: 12px 0;" />
+    <p style="font-size: 13px; color: #555; font-style: italic; margin: 0;">"Title to be announced"</p>
+  </div>
+
+</div>
+
+---
+
+## &#128344; Tentative Schedule
+
+| Time | Session / Event | Speaker / Details |
+| :--- | :--- | :--- |
+| 08:45 - 09:00 | Welcome & Workshop Overview | Organizers |
+| 09:00 - 09:30 | **Keynote 1 (Theme 1, Pro)** | Prof. Tim Barfoot |
+| 09:30 - 10:00 | **Keynote 2 (Theme 1, Con)** | Prof. Sven Behnke |
+| 10:00 - 10:30 | Oral Presentations (Theme 1, Pro & Con) | Accepted Authors |
+| 10:30 - 11:00 | Coffee Break & Poster Session A (setup) | - |
+| 11:00 - 11:30 | **Keynote 3 (Theme 2, Pro)** | Prof. Teresa Vidal-Calleja |
+| 11:30 - 12:00 | **Keynote 4 (Theme 2, Con)** | Dr. Jonghyun Choi |
+| 12:00 - 12:30 | Oral Presentations (Theme 2, Pro & Con) | Accepted Authors |
+| 12:30 - 14:00 | Lunch Break & Poster Session A (continued) | - |
+| 14:00 - 14:30 | **Keynote 5 (Theme 3, Pro)** | Dr. Marija Popović |
+| 14:30 - 15:00 | **Keynote 6 (Theme 3, Con)** | Prof. Hyun Myung |
+| 15:00 - 15:30 | Oral Presentations (Theme 3, Pro & Con) | Accepted Authors |
+| 15:30 - 16:20 | Coffee Break and Poster Session B | - |
+| 16:20 - 16:30 | Two Startup Presentations | TABxStartups |
+| 16:30 - 17:30 | Interactive Panel Discussion | All Speakers |
+| 17:30 - 17:45 | Best Presentation Awards & Closing | Organizers |
+
+---
+
+## &#128101; Organizers
 
 ### LoWi Team
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; text-align: center; margin-bottom: 30px;">
