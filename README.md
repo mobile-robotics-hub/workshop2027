@@ -38,10 +38,10 @@ The workshop invites contributions covering a broad range of topics, including b
 * **Adaptive control:** Safe reinforcement learning, hybrid control architectures, and interactive navigation in unpredictable scenarios.
 * **Data-efficient learning:** Self-supervised, unsupervised, weakly-supervised learning, data generation, augmentation, and active learning for the wild.
 * **Uncertainty and safety:** Long-term reliability, uncertainty quantification, safety guarantees, and interpretability in safety-critical deployments.
-* **Real-world Deployment:** Novel sensors, multi-season/long-term datasets, standardized benchmarks, and real-world field application case studies.
+* **Real-world deployment:** Novel sensors, multi-season/long-term datasets, standardized benchmarks, and real-world field application case studies.
 
 ### Submission Guidelines
-* **Paper Format:** Position papers (1-2 pages) Extended Abstracts (1-2 pages) or Full Papers (4-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
+* **Paper Format:** Position Papers (1-2 pages) Extended Abstracts (1-2 pages) or Full Papers (4-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
 * **Submission Portal:** [https://cmt3.research.microsoft.com/LoWi2027](https://cmt3.research.microsoft.com/LoWi2027)
 * **Publication Policy:** Non-archival. Papers presented here can be submitted to other conferences/journals later.
 
