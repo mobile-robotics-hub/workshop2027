@@ -41,7 +41,7 @@ The workshop invites contributions covering a broad range of topics, including b
 * **Real-world deployment:** Novel sensors, multi-season/long-term datasets, standardized benchmarks, and real-world field application case studies.
 
 ### Submission Guidelines
-* **Paper Format:** Position Papers (1-2 pages) Extended Abstracts (1-2 pages) or Full Papers (4-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
+* **Paper Format:** Position Papers (1-2 pages), Extended Abstracts (1-2 pages), or Full Papers (4-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
 * **Submission Portal:** [https://cmt3.research.microsoft.com/LoWi2027](https://cmt3.research.microsoft.com/LoWi2027)
 * **Publication Policy:** Non-archival. Papers presented here can be submitted to other conferences/journals later.
 
