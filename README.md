@@ -12,7 +12,7 @@ On one hand, the long-term performance of these systems depends heavily on their
 On the other hand, how to construct effective benchmarks for real-world deployment that can be widely adopted remains a very open question.
 These considerations gave rise to LoWi.
 Since its 1st edition, LoWi has followed a philosophy: while maintaining an overarching theme and research context for each edition (represented by the main title), it can focus on specific aspects (represented by the subtitle).
-The 2nd edition of LoWi will be held in conjunction with the **Spatio-Temporal Intelligence (STI)** workshop.
+The 2nd edition of LoWi will be held in conjunction with the **Spatio-Temporal Intelligence** workshop.
 Through a **debate-style** format, we aim to gather insights on the consensus and points of contention within the community regarding topics of mutual interest, ultimately providing guidance for future research directions and technological development paths.
 Accordingly, the subtitle for the 2nd edition of LoWi is: **Consensus, Controversies, and Perspectives**.
 Specifically, we have identified three themes: **Real-world Deployment**, **4D Perception and Intelligence**, and **Long-term Autonomy**.
@@ -142,7 +142,7 @@ Coming soon!
     <br />
     <strong><a href="https://yzrobot.github.io/" target="_blank">Zhi Yan</a></strong>
     <br />
-    <small>ENSTA, Institut Polytechnique de Paris, France</small>
+    <small>ENSTA, Intut Polytechnique de Paris, France</small>
   </div>
 
   <div>
@@ -150,7 +150,7 @@ Coming soon!
     <br />
     <strong><a href="https://www.ensta-paris.fr/fr/francois-goulette" target="_blank">François Goulette</a></strong>
     <br />
-    <small>ENSTA, Institut Polytechnique de Paris, France</small>
+    <small>ENSTA, Intut Polytechnique de Paris, France</small>
   </div>
 
   <div>
@@ -211,7 +211,7 @@ Coming soon!
 
 </div>
 
-### STI Team
+### Spatio-Temporal Intelligence Team
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; text-align: center; margin-bottom: 30px;">
 
   <div>
