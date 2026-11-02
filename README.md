@@ -23,7 +23,6 @@ Expected outcomes include a roadmap paper and the organization of a special issu
 
 ## &#128197; Important Dates
 
-
 * **Paper Submission Deadline:** March 31, 2027 (23:59 Anywhere on Earth)
 * **Notification of Acceptance:** April 24, 2027
 * **Workshop Date:** May 24 or 28, 2027
@@ -32,10 +31,17 @@ Expected outcomes include a roadmap paper and the organization of a special issu
 
 ## &#128227; Call for Papers
 
-Coming soon!
+The workshop invites contributions covering a broad range of topics, including but not limited to:
+* **Long-term autonomy:** Persistent mapping, online/continual/lifelong learning, and catastrophic-forgetting mitigation in ever-changing environments.
+* **Robust perception:** Sensor fusion, reliable localization, and scene understanding under harsh, adverse, and dynamic conditions in the wild.
+* **Sim2Real adaptation:** Foundation models, world models, domain adaptation, and sim-to-real/real-to-sim transfer for open-world deployment.
+* **Adaptive control:** Safe reinforcement learning, hybrid control architectures, and interactive navigation in unpredictable scenarios.
+* **Data-efficient learning:** Self-supervised, unsupervised, weakly-supervised learning, data generation, augmentation, and active learning for the wild.
+* **Uncertainty and safety:** Long-term reliability, uncertainty quantification, safety guarantees, and interpretability in safety-critical deployments.
+* **Real-world Deployment:** Novel sensors, multi-season/long-term datasets, standardized benchmarks, and real-world field application case studies.
 
 ### Submission Guidelines
-* **Paper Format:** Position papers (1-2 pages) Extended Abstracts (2-4 pages) or Full Papers (6-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
+* **Paper Format:** Position papers (1-2 pages) Extended Abstracts (1-2 pages) or Full Papers (4-8 pages), using the [IEEE ICRA template](https://ras.papercept.net/conferences/support/support.php).
 * **Submission Portal:** [https://cmt3.research.microsoft.com/LoWi2027](https://cmt3.research.microsoft.com/LoWi2027)
 * **Publication Policy:** Non-archival. Papers presented here can be submitted to other conferences/journals later.
 
