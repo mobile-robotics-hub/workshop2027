@@ -291,10 +291,10 @@ The workshop invites contributions covering a broad range of topics, including b
 <a href="https://nus.edu.sg/"><img src="images/logo_nus.png" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.sydney.edu.au/"><img src="images/logo_sydney.png" height="40"></a>
 <br />
-<a href="https://cordis.europa.eu/project/id/101299691"><img src="images/logo_farmar.jpg" height="40"></a>
+<a href="https://www.ieee-ras.org/robot-learning/"><img src="images/logo_ras_rl.png" height="60"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.ieee-ras.org/performance-evaluation"><img src="images/logo_ras_peb.png" height="60"></a>
 <br />
-<a href="https://www.ieee-ras.org/robot-learning/"><img src="images/logo_ras_rl.png" height="40"></a>
-<a href="https://www.ieee-ras.org/performance-evaluation"><img src="images/logo_ras_peb.png" height="40"></a>
+<a href="https://cordis.europa.eu/project/id/101299691"><img src="images/logo_farmar.jpg" height="60"></a>
 
 ---
 
